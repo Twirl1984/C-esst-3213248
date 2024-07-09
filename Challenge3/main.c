@@ -3,7 +3,7 @@
 
 int main()
 {
-    int zahl = 12.3;
+    float zahl = 12.3;
     printf("%f",zahl);
     return 0;
 }
